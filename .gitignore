@@ -1,0 +1,9 @@
+# Java build artifacts
+*.class
+
+# Runtime persistence artifacts
+*.ser
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
